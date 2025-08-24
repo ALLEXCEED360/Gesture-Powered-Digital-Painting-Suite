@@ -205,7 +205,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **GitHub:** [@yourusername](https://github.com/ALLEXCEED360)
+- **GitHub:** [@ALLEXCEED360](https://github.com/ALLEXCEED360)
 - **Email:** aryan138alam@gmail.com
 
 ---
