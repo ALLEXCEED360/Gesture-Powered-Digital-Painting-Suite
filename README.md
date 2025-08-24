@@ -51,8 +51,7 @@ An interactive drawing application that lets you create digital art using only h
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/hand-gesture-drawing-app.git
-cd hand-gesture-drawing-app
+git clone https://github.com/ALLEXCEED360/Gesture-Powered-Digital-Painting-Suite.git
 ```
 
 ### 2. Install dependencies
